@@ -1,4 +1,4 @@
-# Team Toothless
+# Team TooThless
 
 ## 주요 프로젝트
 
